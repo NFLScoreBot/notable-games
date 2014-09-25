@@ -28,16 +28,18 @@ It is currently incomplete.
 * [NFL.com](http://www.nfl.com/gamecenter/2010121906/2010/REG15/eagles@giants#menu=gameinfo&tab=analyze)
 * [ESPN.com](http://scores.espn.go.com/nfl/boxscore?gameId=301219019)
 
-##### Week 9, 2013 (Bengals at Dolphins) #####
+### Game-Winning Field Goal ###
 
-> A safety provided the winning points in OT, and the Dolphins squeaked by the Bengals, 22-20.
+#### Week 1, 2014 (Saints at Falcons) ####
 
-([Link](https://twitter.com/NFLScoreBot/statuses/396127677956243456))
+> Matt Bryant kicked a 52 yard field goal with 13:17 left in OT, and the Falcons beat the Saints, 37-34.
 
-###### Sources ######
+([Link](https://twitter.com/NFLScoreBot/status/508711995097755648))
 
-* [NFL.com](http://www.nfl.com/gamecenter/2013103100/2013/REG9/bengals@dolphins#menu=gameinfo&tab=analyze)
-* [ESPN.com](http://scores.espn.go.com/nfl/boxscore?gameId=331031015)
+##### Sources #####
+
+* [NFL.com](http://www.nfl.com/gamecenter/2014090700/2014/REG1/saints@falcons#menu=gameinfo&tab=analyze)
+* [ESPN.com](http://scores.espn.go.com/nfl/boxscore?gameId=400554215)
 
 ### Game-Winning Safety ###
 
