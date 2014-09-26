@@ -6,7 +6,7 @@ It is currently incomplete.
 
 ### Game-Winning Touchdowns ###
 
-#### Passing Touchdown ####
+#### Rushing Touchdown ####
 
 ##### Week 3, 2014 (Broncos at Seahawks) #####
 
