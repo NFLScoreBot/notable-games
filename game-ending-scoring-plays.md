@@ -19,6 +19,19 @@ It is currently incomplete.
 * [NFL.com](http://www.nfl.com/gamecenter/2014092112/2014/REG3/broncos@seahawks#menu=gameinfo&tab=analyze)
 * [ESPN.com](http://scores.espn.go.com/nfl/boxscore?gameId=400554276)
 
+#### Passing Touchdown ####
+
+##### Week 1, 2014 (Chargers at Cardinals) #####
+
+> Carson Palmer found John Brown for a 13 yard touchdown with 2:25 left, and the Cardinals beat the Chargers, 18-17.
+
+([Link](https://twitter.com/NFLScoreBot/status/509369103812165632))
+
+###### Sources ######
+
+* [NFL.com](http://www.nfl.com/gamecenter/2014090801/2014/REG1/chargers@cardinals#menu=gameinfo&tab=analyze)
+* [ESPN.com](http://scores.espn.go.com/nfl/boxscore?gameId=400554301)
+
 #### Punt Return for Touchdown ####
 
 ##### Week 15, 2010 (Eagles at Giants) #####
